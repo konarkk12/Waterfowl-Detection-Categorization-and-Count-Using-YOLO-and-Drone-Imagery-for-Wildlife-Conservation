@@ -12,7 +12,7 @@ Traditional wildlife surveys are time-consuming and prone to human error. By lev
 
 ## Dataset
 
-A custom dataset was created using drone imagery captured over flamingo habitats.
+A custom dataset was created consisting drone imagery captured over flamingo habitats.
 
 ### Annotation
 
@@ -20,8 +20,6 @@ A custom dataset was created using drone imagery captured over flamingo habitats
 * Format: YOLO Bounding Boxes
 * Species: Flamingo
 * Viewpoint: Top-down Drone Imagery
-
-Dataset samples are available in the `images/` directory.
 
 Full dataset:
 
